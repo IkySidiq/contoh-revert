@@ -1,4 +1,3 @@
 Baris ini dibuat bersamaan pada saat file ini dibuat
 Baris ini dibuat pada fase ke-2
 Baris ini dibuat pada fase ke-3
-Baris ini dibuat pada fase ke-4 menggunakan merged
